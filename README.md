@@ -25,7 +25,7 @@
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DinithiSapna-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/dinithi-sapna-diwanjalee-178954301/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DinithiSapna-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dinithi-sapna-diwanjalee-178954301/)
 [![GitHub](https://img.shields.io/badge/GitHub-DinithiSapna-black?style=flat-square&logo=github)](https://github.com/DinithiSapna)  
 
 ---
